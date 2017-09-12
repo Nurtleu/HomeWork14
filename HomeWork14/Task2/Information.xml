@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<element>
+  <Information>
+    <name>Nurtleu</name>
+    <surname>Omirzhan</surname>
+    <age>16</age>
+    <speciality>Programmer</speciality>
+  </Information>
+  <Information>
+    <name>asafa</name>
+    <surname>asffd</surname>
+    <age>18</age>
+    <speciality>programmer</speciality>
+  </Information>
+  <Information>
+    <name>qwerty</name>
+    <surname>qrewty</surname>
+    <age>21</age>
+    <speciality>programmer</speciality>
+  </Information>
+</element>
